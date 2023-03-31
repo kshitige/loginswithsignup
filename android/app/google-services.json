@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083290120787",
+    "project_id": "loginscreens-b4284",
+    "storage_bucket": "loginscreens-b4284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083290120787:android:6f7d3bf6a2a15ed35c8ca6",
+        "android_client_info": {
+          "package_name": "com.app.loginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083290120787-hek7ljrjit2st3b8knl10an36mo58loc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfGRlbj7CfGI_xqkMwSvKVA4uod1Uecc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083290120787-hek7ljrjit2st3b8knl10an36mo58loc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
